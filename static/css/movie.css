@@ -1,0 +1,7 @@
+.chart {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    border-bottom: 1px dotted gray;
+    margin-top: 50px;
+}
