@@ -1,5 +1,6 @@
 var fs = require('fs')
 
+// TODO 没法切换，数据有问题。
 var movieFilePath = 'db/movie.json'
 // var trueMovieFilePath = 'crawler/skyeMovies.json'
 const loadMovies = () => {
